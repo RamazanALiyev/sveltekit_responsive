@@ -6,7 +6,7 @@
 	let sidebar_show = false;
 </script>
 
-<header class="bg-emerald-400 h-[74px] text-white flex items-center border-b">
+<header class="bg-emerald-400 h-[74px] text-white flex items-center fixed top-0 w-full">
 	<div class="flex justify-between w-[95%] mx-auto items-center md:flex-row md:justify-between md:w-[90%]">
 		<div>
 			<a class="flex justify-center items-center" href="/">

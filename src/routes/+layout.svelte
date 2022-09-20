@@ -1,6 +1,5 @@
 <script>
 	// @ts-nocheck
-
 	import Header from '$lib/header/Header.svelte';
 	import '../app.css';
 	import FaFacebookF from 'svelte-icons/fa/FaFacebookF.svelte';
@@ -21,7 +20,7 @@
 	<slot />
 </main>
 
-<footer class="bg-emerald-400 h-32 text-white flex items-center border-t">
+<footer class="bg-emerald-400 h-32 text-white flex items-center">
 	<div
 		class="flex flex-col justify-center items-center w-[95%] mx-auto md:flex-row md:justify-between md:w-[90%]"
 	>
