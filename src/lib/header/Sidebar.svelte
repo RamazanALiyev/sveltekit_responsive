@@ -17,7 +17,7 @@
 				Services
 			</li>
 			<li class="py-2 pl-5 text-black text-3xl font-medium workSans hover:bg-emerald-400 hover:text-white">
-				Contact
+				<a href="/contact">Contact</a>
 			</li>
 		</ul>
 	</div>
